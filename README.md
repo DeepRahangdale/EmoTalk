@@ -2,7 +2,7 @@
 
 Emotalk is a simple web application that converts text input into a fun and expressive display of emojis. This project uses HTML, CSS, and JavaScript to create an interactive interface that allows users to enter text and instantly see their input translated into a sequence of emojis.
 
-![Emotalk Preview](screenshot.png)
+![Emotalk Preview](Screenshot.png)
 
 ## Features
 
